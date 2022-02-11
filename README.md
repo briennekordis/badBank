@@ -4,7 +4,7 @@ badBank
 ## Table of Contents
  - [Description & General Info](https://github.com/briennekordis/badBank/blob/main/README.md#description--general-info)
  - [Languages & Technologies](https://github.com/briennekordis/badBank/blob/main/README.md#languages--technologies)
- - [Setup](https://github.com/briennekordis/badBank/blob/main/README.md#setup)
+ - [Setup & Use](https://github.com/briennekordis/badBank/blob/main/README.md#setup--use)
  - [Suggestions for Improvement](https://github.com/briennekordis/badBank/blob/main/README.md#suggestions-for-improvement)
  
 
@@ -19,7 +19,7 @@ badBank was the portfolio project for the module on front end development as par
 - React / JSX
 - Node.js
 
-## Setup
+## Setup & Use
 1. Download or clone the project's repository. 
 2. Navigate to the directory of the project from your command line. 
 3. Run `npm start` in your commmand line. (Make sure you have Node installed!) This should start the project in a new tab of your default broswer. 
