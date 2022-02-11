@@ -5,7 +5,7 @@ badBank
  - [Description & General Info](https://github.com/briennekordis/badBank/blob/main/README.md#description--general-info)
  - [Languages & Technologies](https://github.com/briennekordis/badBank/blob/main/README.md#languages--technologies)
  - [Setup](https://github.com/briennekordis/badBank/blob/main/README.md#setup)
- - [Suggestions for Improvement](https://github.com/briennekordis/badBank/blob/main/README.md#suggestions--for--improvement)
+ - [Suggestions for Improvement](https://github.com/briennekordis/badBank/blob/main/README.md#suggestions-for-improvement)
  
 
 ## Description & General Info
