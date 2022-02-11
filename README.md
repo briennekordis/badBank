@@ -8,7 +8,7 @@ This project is a Single Page Application (SPA) that serves up a React app that 
 4. Click on the various tabs in the navigation bar to create an account, deposit, or withdraw funds. You can even view all of your transactions on the "All Data" tab.  
 
 ## Background
-badBank was the portfolio project for the module on frontend development as part of MITxPro's Full Stack Web Development course. 
+badBank was the portfolio project for the module on front end development as part of MITxPro's Full Stack Web Development course. 
 
 ## Roadmap for Improvement
-- Currently, an account can be created, but a user cannot login to bring up a previously created account because this application does not have a backend for storing user information. A suggestion to improve this application would be adding a backend for that increased functionality.   
+- Currently, an account can be created, but a user cannot login to bring up a previously created account because this application does not have a back end for storing user information. A suggestion to improve this application would be adding a backend for that increased functionality.   
