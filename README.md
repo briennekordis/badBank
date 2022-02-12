@@ -6,7 +6,7 @@ badBank
  - [Languages & Technologies](https://github.com/briennekordis/badBank/blob/main/README.md#languages--technologies)
  - [Setup & Use](https://github.com/briennekordis/badBank/blob/main/README.md#setup--use)
  - [Suggestions for Improvement](https://github.com/briennekordis/badBank/blob/main/README.md#suggestions-for-improvement)
- - [Licensing Information]()
+ - [Licensing Information](https://github.com/briennekordis/badBank/blob/main/README.md#licensing-information)
  
 
 ## Description & General Info
