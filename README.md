@@ -10,7 +10,7 @@ badBank
  
 
 ## Description & General Info
-This project is a Single Page Application (SPA) that serves up a React app that functions like an online bank- albiet a bad one as there is no security included! 
+This project is a Single Page Application (SPA) that serves up a React app that functions like an online bank- albeit a bad one as there is no security included! 
 
 badBank was the portfolio project for the module on front end development as part of MITxPro's Full Stack Web Development course. 
 
